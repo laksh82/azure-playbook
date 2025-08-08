@@ -1,0 +1,6 @@
+---
+resource_group: "rg-lab-ansibleaap-eus2-01"
+az_location: "East US 2"
+tags:
+  cost_center: "60760"
+  solution: "Ansible Automation Platform (AAP) (BSN0001571)"
