@@ -1,0 +1,8 @@
+---
+- name: Provision Azure Resource Group
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  roles:
+    - azure_resource_group
